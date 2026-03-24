@@ -239,9 +239,10 @@ nav {
 }
 
 .ds-section img {
-  width: 100%;
+  display: block;
+  width: 75%;
   height: auto;
-  margin: 1.2rem 0;
+  margin: 1.2rem auto;
 }
 
 .ds-embed {
