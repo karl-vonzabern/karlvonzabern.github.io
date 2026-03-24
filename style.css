@@ -11,7 +11,7 @@ html {
 
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 17px;
+  font-size: 15px;
   line-height: 1.7;
   color: #1a1a1a;
   background: #ffffff;
@@ -88,7 +88,7 @@ nav {
 }
 
 .nav-brand {
-  font-size: 1.15rem;
+  font-size: 1.5rem;
   font-weight: 600;
   letter-spacing: 0.01em;
   color: #1a1a1a;
@@ -124,7 +124,7 @@ nav {
 
 .home-hero .container {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 2fr 3fr;
   gap: 4rem;
   align-items: start;
 }
